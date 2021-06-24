@@ -2,7 +2,6 @@
 <!-- [![Top Langs](https://github-stats-alpha.vercel.app/api/?username=ShinuMathew&cc=000&tc=fff&ic=fff&bc=000)](https://github-stats-alpha.vercel.app/api/?username=cachecleanerjeet&cc=000&tc=fff&ic=fff&bc=000) -->
 
 ![Shinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinuMathew&show_icons=true&theme=dracula)
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinuMathew&theme=dracula)](https://github.com/ShinuMathew/github-readme-stats&theme=dracula)
 <!-- 
 ### Languages and Tools:
