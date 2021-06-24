@@ -1,4 +1,2 @@
-[![Shinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinuMathew)](https://github.com/ShinuMathew/github-readme-stats)
-
 ![Shinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinuMathew&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinuMathew&layout=compact)](https://github.com/ShinuMathew/github-readme-stats)
