@@ -1,4 +1,4 @@
-<!-- ![Shinu Mathews](ProfilePic.jpg) -->
+![Shinu Mathews](profile.gif)
 <!-- [![Top Langs](https://github-stats-alpha.vercel.app/api/?username=ShinuMathew&cc=000&tc=fff&ic=fff&bc=000)](https://github-stats-alpha.vercel.app/api/?username=cachecleanerjeet&cc=000&tc=fff&ic=fff&bc=000) -->
 
 ![Shinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinuMathew&show_icons=true&theme=dracula)
