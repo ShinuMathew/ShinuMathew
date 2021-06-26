@@ -2,7 +2,8 @@
 <!-- [![Top Langs](https://github-stats-alpha.vercel.app/api/?username=ShinuMathew&cc=000&tc=fff&ic=fff&bc=000)](https://github-stats-alpha.vercel.app/api/?username=cachecleanerjeet&cc=000&tc=fff&ic=fff&bc=000) -->
 
 ![Shinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinuMathew&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinuMathew&theme=dracula)](https://github.com/ShinuMathew/github-readme-stats&theme=dracula)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinuMathew&theme=dracula)](https://github.com/ShinuMathew/github-readme-stats&theme=dracula&hide=html,css,Less,SCSS) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinuMathew&theme=dracula&https://github-readme-stats.vercel.app/api/top-langs/?username=ShinuMathew&langs_count=8&hide=html,css,Less,SCSS&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinuMathew&langs_count=8&hide=html,css,Less,SCSS&layout=compact)
 <!-- 
 ### Languages and Tools:
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
