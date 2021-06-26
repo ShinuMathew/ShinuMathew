@@ -1,6 +1,7 @@
-![Shinu Mathews](profile.gif)
+<!-- ![Shinu Mathews](profile.gif) -->
 
 ![Shinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinuMathew&show_icons=true&theme=dracula)
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinuMathew&theme=dracula&https://github-readme-stats.vercel.app/api/top-langs/?username=ShinuMathew&langs_count=8&hide=html,css,Less,SCSS&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinuMathew&langs_count=8&hide=html,css,Less,SCSS&layout=compact)
 ### Connect with me:
 [<img align="left" alt="ShinuMathew | LinkedIn" width="50px" src="https://img.icons8.com/fluent/90/000000/linkedin.png" />][linkedin]
